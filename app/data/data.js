@@ -1,0 +1,161 @@
+const perfumes = [
+    {
+      id: 1,
+      name: "Scandal",
+      img: "/images/women/1.jpeg",
+      category: "Women",
+    },
+    {
+      id: 2,
+      name: "Si",
+      img: "/images/women/2.jpeg",
+      category: "Women",
+    },
+    {
+      id: 3,
+      name: "Yes I Am",
+      img: "/images/women/3.jpeg",
+      category: "Women",
+    },
+    {
+      id: 4,
+      name: "Mon Guerlain",
+      img: "/images/women/4.jpeg",
+      category: "Women",
+    },
+    {
+      id: 5,
+      name: "Miss Dior",
+      img: "/images/women/5.jpeg",
+      category: "Women",
+    },
+    {
+      id: 6,
+      name: "My Way",
+      img: "/images/women/6.jpeg",
+      category: "Women",
+    },
+    {
+      id: 7,
+      name: "Luna",
+      img: "/images/women/7.jpeg",
+      category: "Women",
+    },
+    {
+      id: 8,
+      name: "Lady Million",
+      img: "/images/women/8.jpeg",
+      category: "Women",
+    },
+    {
+      id: 9,
+      name: "La Vie Et Belle",
+      img: "/images/women/9.jpeg",
+      category: "Women",
+    },
+    {
+      id: 10,
+      name: "La Nuit De Tresor à La Folie",
+      img: "/images/women/10.jpeg",
+      category: "Women",
+    },
+    {
+      id: 11,
+      name: "La Petite Robe Noire",
+      img: "/images/women/11.jpeg",
+      category: "Women",
+    },
+    {
+      id: 12,
+      name: "L'Interdit",
+      img: "/images/women/12.jpeg",
+      category: "Women",
+    },
+    {
+      id: 13,
+      name: "Joy",
+      img: "/images/women/13.jpeg",
+      category: "Women",
+    },
+    {
+      id: 14,
+      name: "La Belle",
+      img: "/images/women/14.jpeg",
+      category: "Women",
+    },
+    {
+      id: 15,
+      name: "Insolonce",
+      img: "/images/women/15.jpeg",
+      category: "Women",
+    },
+    {
+      id: 16,
+      name: "J'adore",
+      img: "/images/women/16.jpeg",
+      category: "Women",
+    },
+    {
+      id: 17,
+      name: "Hypnotic Poison",
+      img: "/images/women/17.jpeg",
+      category: "Women",
+    },
+    {
+      id: 18,
+      name: "Idole",
+      img: "/images/women/18.jpeg",
+      category: "Women",
+    },
+    {
+      id: 19,
+      name: "FlowerBomb",
+      img: "/images/women/19.jpeg",
+      category: "Women",
+    },
+    {
+      id: 20,
+      name: "BonBon",
+      img: "/images/women/20.jpeg",
+      category: "Women",
+    },
+    {
+      id: 21,
+      name: "Black XS",
+      img: "/images/women/21.jpeg",
+      category: "Women",
+    },
+    {
+      id: 22,
+      name: "Coco Mademoiselle",
+      img: "/images/women/22.jpeg",
+      category: "Women",
+    },
+    {
+      id: 23,
+      name: "Black Opium",
+      img: "/images/women/23.jpeg",
+      category: "Women",
+    },
+    {
+      id: 24,
+      name: "Bella",
+      img: "/images/women/24.jpeg",
+      category: "Women",
+    },
+    {
+      id: 25,
+      name: "Amor Amor",
+      img: "/images/women/25.jpeg",
+      category: "Women",
+    },
+    {
+      id: 26,
+      name: "Kenzo Amour",
+      img: "/images/women/26.jpeg",
+      category: "Women",
+    },
+  ];
+  
+  export default perfumes;
+  
